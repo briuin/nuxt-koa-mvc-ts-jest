@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# build
+build
+
+# .idea
+.idea
+
+# server/logs
+server/logs
+
+# config/app.js
+config/app.js
+
+# test
+test/unit/coverage
+test/unit/specs/client/__snapshots__
